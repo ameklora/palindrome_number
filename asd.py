@@ -12,3 +12,4 @@ def check(x=x, counter=0):
 def smth(x):
 	x = ' '.join(str(x)).split()
 	print(check(x))
+smth(x)
